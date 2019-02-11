@@ -1,0 +1,11 @@
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\bin\Debug\newnews.exe.config
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\bin\Debug\Database2.accdb
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\bin\Debug\newnews.exe
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\bin\Debug\newnews.pdb
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\bin\Debug\newnews.xml
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\obj\Debug\newnews.Form1.resources
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\obj\Debug\newnews.Resources.resources
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\obj\Debug\newnews.vbproj.GenerateResource.Cache
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\obj\Debug\newnews.exe
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\obj\Debug\newnews.xml
+c:\users\vinit\documents\visual studio 2013\Projects\newnews\newnews\obj\Debug\newnews.pdb
