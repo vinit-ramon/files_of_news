@@ -1,0 +1,11 @@
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\bin\Debug\shownews.exe.config
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\bin\Debug\Database2.accdb
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\bin\Debug\shownews.exe
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\bin\Debug\shownews.pdb
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\bin\Debug\shownews.xml
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\obj\Debug\shownews.Form1.resources
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\obj\Debug\shownews.Resources.resources
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\obj\Debug\shownews.vbproj.GenerateResource.Cache
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\obj\Debug\shownews.exe
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\obj\Debug\shownews.xml
+c:\users\vinit\documents\visual studio 2013\Projects\shownews\shownews\obj\Debug\shownews.pdb
